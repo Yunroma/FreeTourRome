@@ -40,8 +40,8 @@
     <icon src="res/icons/ios/icon/Icon-Tab-bar-icon.png" gap:platform="ios" width="60" height="60" />
     <icon src="res/icons/ios/icon/toolbar-icon.png" gap:platform="ios" width="40" height="40" />
 
-	<icon src="res/icons/ios/itunes/iTunesArtwork" gap:platform="ios" width="512" height="512" />
-	<icon src="res/icons/ios/itunes/iTunesArtwork@2x" gap:platform="ios" width="1024" height="1024" />
+	<icon src="res/icons/ios/itunes/iTunesArtwork.png" gap:platform="ios" width="512" height="512" />
+	<icon src="res/icons/ios/itunes/iTunesArtwork@2x.png" gap:platform="ios" width="1024" height="1024" />
 
     <icon src="res/icons/android/drawable-ldpi/Icon.png" gap:platform="android" gap:density="ldpi" />
     <icon src="res/icons/android/drawable-mdpi/Icon.png" gap:platform="android" gap:density="mdpi" />

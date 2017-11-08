@@ -3,9 +3,8 @@
     
     <name>Free Tour Rome</name>
     <description>Walking tours in Rome and the Vatican museums</description>
-    <author email="info@freetourrome.com" href="http://www.freetourrome.com">Webmaster</author>
-	<content src="http://m.freetourrome.com" />
-    <access origin="*" subdomains="true" />
+    <author email="info@freetourrome.com" href="https://www.freetourrome.com">Webmaster</author>
+	<content src="https://www.freetourrome.com" />
 
     <preference name="phonegap-version" value="3.7.1" />
     <!-- <feature name="http://api.phonegap.com/1.0/device" /> -->

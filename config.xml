@@ -3,11 +3,11 @@
     
     <name>Free Tour Rome</name>
     <description>Walking tours in Rome and the Vatican museums</description>
-    <author email="info@freetourrome.com" href="http://www.freetourrome.com">Webmaster</author>
+    <author email="info@freetourrome.com" href="https://www.freetourrome.com">Webmaster</author>
 	<content src="http://m.freetourrome.com" />
     <access origin="*" subdomains="true" />
 
-    <preference name="phonegap-version" value="3.7.1" />
+    <preference name="phonegap-version" value="6.5.0" />
     <!-- <feature name="http://api.phonegap.com/1.0/device" /> -->
     
     <preference name="orientation" value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
